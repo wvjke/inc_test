@@ -1,0 +1,15 @@
+.table_container {
+    margin-top: 150px;
+    margin-bottom: 15px;
+}
+.ticker_cell {
+    font-family: "Open Sans", sans-serif !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+}
+.ticker_change_percent {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    width: min-content;
+}
