@@ -12,3 +12,4 @@
 2. `cd client`
 3. `npm install` or `yarn install`
 4. `npm run dev` or `yarn dev`
+5. You can visit [http://localhost:5173](http://localhost:5173) to check how UI working.
